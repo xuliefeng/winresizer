@@ -56,7 +56,7 @@ let s:save_cpo = &cpo
 set cpo&vim
 
 " default start resize window key mapping
-let s:default_start_key = '<C-E>'
+let s:default_start_key = '<leader>wr'
 
 " If you define 'g:win_resizer_start_key' in .vimrc, 
 " will be started resize window by 'g:win_resizer_start_key' 
